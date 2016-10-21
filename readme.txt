@@ -1,3 +1,13 @@
+
+
+## This is a project for searching the optimal solution for an Electric Power Flow Problem through Genetic Algorithm
+## More details about the problem can be seen in the docs folder
+## The code I implemented is in the psopt file
+
+
+
+
+%Original readme:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Task Force on Modern Heuristic Optimization Test Beds
 % Working Group on Modern Heuristic Optimization
@@ -98,8 +108,8 @@ http://www.pserc.cornell.edu/matpower/.
 
 Contact
 =======
-Prof. Istv·n Erlich (istvan.erlich@uni-due.de) 
-Dr. JosÈ L. Rueda (jose.rueda@uni-due.de)
+Prof. Istv√°n Erlich (istvan.erlich@uni-due.de) 
+Dr. Jos√© L. Rueda (jose.rueda@uni-due.de)
 Sebastian Wildenhues, M.Sc. (sebastian.wildenhues@uni-due.de)
 
 Terms of use
