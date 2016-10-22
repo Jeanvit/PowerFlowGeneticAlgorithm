@@ -1,5 +1,9 @@
-- This is a project for searching the optimal solution for an Electric Power Flow Problem through a Genetic Algorithm
-- More details about the problem can be seen in the docs folder
+- This algorithm tries to find the optimal solution for an Electric Power Flow Problem through a Genetic Algorithm
+	- The selection occurs via Tournament with a 1 vs 1 game
+	- The recombination points is random
+	- The mutations also occurs in random individuals
+
+- More details about the Power Flow Problem can be seen in the docs folder
 - The code I implemented is in the psopt file
 
 
